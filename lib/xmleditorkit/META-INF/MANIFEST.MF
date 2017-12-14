@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Created-By: Stanislav Lapitsky
+Main-Class: xmleditorkit.App
+
+Name: xmleditorkit/App.class
+Java-Bean: False
+
